@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MVCGuo.Models.FieldStatus>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Profile.OwnerID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ColumnName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EnumFieldStatusV)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Profile.OwnerID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ColumnName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnumFieldStatusV)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.FieldStatusID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.FieldStatusID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.FieldStatusID })
+        </td>
+    </tr>
+}
+
+</table>
