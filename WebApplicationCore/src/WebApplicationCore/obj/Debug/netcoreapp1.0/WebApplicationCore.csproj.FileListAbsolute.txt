@@ -1,0 +1,22 @@
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.deps.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.runtimeconfig.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.runtimeconfig.dev.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.pdb
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.csprojResolveAssemblyReference.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.AssemblyInfoInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.AssemblyInfo.cs
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.pdb
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.deps.json
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.runtimeconfig.json
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.runtimeconfig.dev.json
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.dll
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\bin\Debug\netcoreapp1.0\WebApplicationCore.pdb
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.csprojResolveAssemblyReference.cache
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.csproj.CoreCompileInputs.cache
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.AssemblyInfoInputs.cache
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.AssemblyInfo.cs
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.dll
+D:\GitHub\Example\WebApplicationCore\src\WebApplicationCore\obj\Debug\netcoreapp1.0\WebApplicationCore.pdb

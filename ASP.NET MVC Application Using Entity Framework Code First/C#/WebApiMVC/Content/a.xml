@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>
+    <Name>USA</Name>
+    <Population>1000</Population>
+    <Money>DOLLAR</Money>
+    <Cities>
+      <CityName>NEWYORK</CityName>
+      <AreaCode>560</AreaCode>
+    </Cities>
+    <Cities>
+      <CityName>WASHINGTON</CityName>
+      <AreaCode>450</AreaCode>
+    </Cities>
+  </Country>
+  <Country>
+    <Name>FRA</Name>
+    <Population>300</Population>
+    <Money>EURO</Money>
+    <Cities>
+      <CityName>PARIS</CityName>
+      <AreaCode>860</AreaCode>
+    </Cities>
+    <Cities>
+      <CityName>LYON</CityName>
+      <AreaCode>40</AreaCode>
+    </Cities>
+  </Country>
+</Data>

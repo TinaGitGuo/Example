@@ -1,0 +1,36 @@
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.deps.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.dev.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.pdb
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csprojResolveAssemblyReference.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csproj.CoreCompileInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfoInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfo.cs
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.pdb
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.deps.json
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.json
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.dev.json
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.pdb
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csprojResolveAssemblyReference.cache
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csproj.CoreCompileInputs.cache
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfoInputs.cache
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfo.cs
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Source\Repos\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.pdb
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.deps.json
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.json
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.dev.json
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.dll
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.pdb
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csprojResolveAssemblyReference.cache
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csproj.CoreCompileInputs.cache
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfoInputs.cache
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfo.cs
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.dll
+D:\GitHub\Example\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.pdb

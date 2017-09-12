@@ -1,0 +1,90 @@
+﻿@model IEnumerable<ContosoUniversity.Models.Course>
+@using ContosoUniversity.Extend;
+
+@{
+    ViewBag.Title = "Courses";
+}
+
+<h2>Courses</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div class="form-group">
+    @*@Html.LabelFor(model => model.Customer.State, new { @class = "control-label col-md-2", required = "required" })*@
+    <div class="col-md-10">
+        @Html.DropDownListWithAttributesFor(model => model.FirstOrDefault().CourseID, new HtmlSelectListModel<ContosoUniversity.Models.Course>
+   {
+       DataObjects = Model,
+       EmptyValueText = "- Select a State -",
+       SelectAttributes = new Dictionary<string, string> { { "Id", "Customer_State" }, { "Name", "Customer.State" } },
+       OptionAttributes = new Dictionary<string, string>
+                                    {
+                                        { "value", "CourseID" }, { "inner-text", "Title" }, { "data-country", "Credits" }
+                                    }
+   })
+        @*@Html.DropDownListFor2(model => model.Customer.State,
+            new HtmlSelectListModel<State>
+            {
+                DataObjects = CountryManager.Instance.States,
+                EmptyValueText = "- Select a State -",
+                SelectAttributes = new Dictionary<string, string> { { "Id", "Customer_State" }, { "Name", "Customer.State" } },
+                OptionAttributes = new Dictionary<string, string>
+                                    {
+                                        { "value", "StateCode" }, { "inner-text", "StateName" }, { "data-country", "CountryCode" }
+                                    }
+            }
+        )*@
+       
+    </div>
+</div>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Select Department: @Html.DropDownList("SelectedDepartment", "All")
+        <input type="submit" value="Filter" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Credits)
+        </th>
+        <th>
+            Department
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Credits)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Department.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CourseID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CourseID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CourseID })
+            </td>
+        </tr>
+    }
+
+</table>

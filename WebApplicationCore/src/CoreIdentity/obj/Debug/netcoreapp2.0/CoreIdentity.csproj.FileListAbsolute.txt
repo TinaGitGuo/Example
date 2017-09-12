@@ -1,0 +1,12 @@
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.deps.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.runtimeconfig.dev.json
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\bin\Debug\netcoreapp2.0\CoreIdentity.pdb
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csprojResolveAssemblyReference.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.csproj.CoreCompileInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfoInputs.cache
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.AssemblyInfo.cs
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.dll
+C:\Users\v-tiguo\Documents\Visual Studio 2015\Projects\WebApplicationCore\CoreIdentity\obj\Debug\netcoreapp2.0\CoreIdentity.pdb
