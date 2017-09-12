@@ -1,0 +1,41 @@
+@model IEnumerable<MVCGuo.Models.FieldStatus>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ColumnName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnumFieldStatusV)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ColumnName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnumFieldStatusV)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FieldStatusID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.FieldStatusID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FieldStatusID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

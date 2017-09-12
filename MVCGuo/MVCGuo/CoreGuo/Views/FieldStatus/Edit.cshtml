@@ -1,0 +1,50 @@
+@model MVCGuo.Models.FieldStatus
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>FieldStatus</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="FieldStatusID" />
+        <div class="form-group">
+            <label asp-for="ColumnName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="ColumnName" class="form-control" />
+                <span asp-validation-for="ColumnName" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="EnumFieldStatusV" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <select asp-for="EnumFieldStatusV" class="form-control"></select>
+                <span asp-validation-for="EnumFieldStatusV" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="ProfileId" class="control-label col-md-2"></label>
+            <div class="col-md-10">
+                <select asp-for="ProfileId" class="form-control" asp-items="ViewBag.ProfileId"></select>
+                <span asp-validation-for="ProfileId" class="text-danger" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
