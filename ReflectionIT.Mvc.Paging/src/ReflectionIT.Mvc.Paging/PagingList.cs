@@ -15,6 +15,21 @@ namespace ReflectionIT.Mvc.Paging {
         public string SortExpression { get; }
 
         public string DefaultSortExpression { get; }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="qry"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <param name="actionName"></param>
+        /// <returns></returns>
+        public static async Task<PagingList<T>> CreateAsync(IOrderedQueryable<T> qry, int pageSize, int pageIndex ,string actionName)
+        {
+            var pageCount = (int)Math.Ceiling(await qry.CountAsync() / (double)pageSize);
+
+            return new PagingList<T>(await qry.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync(),
+                                        pageSize, pageIndex, pageCount,actionName);
+        }
 
         public static async Task<PagingList<T>> CreateAsync(IOrderedQueryable<T> qry, int pageSize, int pageIndex) {
             var pageCount = (int)Math.Ceiling(await qry.CountAsync() / (double)pageSize);
@@ -22,6 +37,7 @@ namespace ReflectionIT.Mvc.Paging {
             return new PagingList<T>(await qry.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync(),
                                         pageSize, pageIndex, pageCount);
         }
+
 
         public static async Task<PagingList<T>> CreateAsync(IQueryable<T> qry, int pageSize, int pageIndex, string sortExpression, string defaultSortExpression) {
             var pageCount = (int)Math.Ceiling(await qry.CountAsync() / (double)pageSize);
@@ -35,6 +51,20 @@ namespace ReflectionIT.Mvc.Paging {
             this.PageIndex = pageIndex;
             this.PageCount = pageCount;
             this.Action = "Index";
+        }
+        /// <summary>
+        /// new 
+        /// </summary>
+        /// <param name="list"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <param name="pageCount"></param>
+        private PagingList(List<T> list, int pageSize, int pageIndex, int pageCount,string actionName)
+          : base(list)
+        {
+            this.PageIndex = pageIndex;
+            this.PageCount = pageCount;
+            this.Action =actionName;
         }
 
         private PagingList(List<T> list, int pageSize, int pageIndex, int pageCount, string sortExpression, string defaultSortExpression)

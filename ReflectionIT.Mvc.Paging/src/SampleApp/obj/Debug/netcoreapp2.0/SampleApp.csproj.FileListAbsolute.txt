@@ -1,0 +1,13 @@
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.deps.json
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.runtimeconfig.json
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.runtimeconfig.dev.json
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.dll
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\SampleApp.pdb
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.dll
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.pdb
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.csprojResolveAssemblyReference.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.AssemblyInfoInputs.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.AssemblyInfo.cs
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.dll
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\SampleApp\obj\Debug\netcoreapp2.0\SampleApp.pdb

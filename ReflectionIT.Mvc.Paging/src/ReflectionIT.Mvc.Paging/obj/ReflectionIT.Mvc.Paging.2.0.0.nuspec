@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ReflectionIT.Mvc.Paging</id>
+    <version>2.0.0</version>
+    <title>ReflectionIT.Mvc.Paging</title>
+    <authors>Fons Sonnemans</authors>
+    <owners>Fons Sonnemans</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/sonnemaf/ReflectionIT.Mvc.Paging/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/sonnemaf/ReflectionIT.Mvc.Paging</projectUrl>
+    <description>ASP.NET Core 2.0 (MVC 6) Library to support Paging (including sorting and filtering) for Entity Framework Core 2.0</description>
+    <releaseNotes>Upgraded to ASP.NET Core 2.0 and Entity Framework Core 2.0</releaseNotes>
+    <copyright>Reflection IT</copyright>
+    <tags>ASPNETCore MVC MVC6 EntityFrameworkCore</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.AspNetCore.All" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.dll" target="lib\netcoreapp2.0\ReflectionIT.Mvc.Paging.dll" />
+  </files>
+</package>

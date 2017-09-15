@@ -9,6 +9,8 @@ namespace SampleApp.Models.Database {
 
         // This constructor is only used for scaffolding controllers
         public NorthwindContext() : base(
+
+            //   "Northwind": "Server=.\\sqlexpress;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=true",
             new DbContextOptionsBuilder<NorthwindContext>()
             .UseSqlServer("Server=.\\sqlexpress;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=true")
             .Option‌​s) {

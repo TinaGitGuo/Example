@@ -1,0 +1,9 @@
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.deps.json
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.dll
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\bin\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.pdb
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.csprojResolveAssemblyReference.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.csproj.CoreCompileInputs.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.AssemblyInfoInputs.cache
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.AssemblyInfo.cs
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.dll
+D:\GitHub\Example\ReflectionIT.Mvc.Paging\src\ReflectionIT.Mvc.Paging\obj\Debug\netcoreapp2.0\ReflectionIT.Mvc.Paging.pdb
